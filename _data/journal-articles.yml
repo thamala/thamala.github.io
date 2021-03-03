@@ -1,4 +1,15 @@
 ---
+
+- id: Takou 2021
+  authors: Takou M, __Hämälä T__, Koch E, Steige KA, Dittberner H, Yant L, Genete M, Sunyaev S, Castric V, Vekemans X, Savolainen O & de Meaux J
+  title: Maintenance of adaptive dynamics and no detectable load in a range-edge out-crossing plant population
+  journal: Molecular Biology and Evolution
+  year: 2021
+  volume: in press
+  pages:
+  openaccess: false
+  pdf-url: https://doi.org/10.1093/molbev/msaa322
+  
 - id: Hamala & Tiffin 2020
   authors: __Hämälä T__ & Tiffin P
   title: Biased gene conversion constrains adaptation in _Arabidopsis thaliana_
@@ -8,4 +19,65 @@
   pages: 831-846
   openaccess: false
   pdf-url: https://doi.org/10.1534/genetics.120.303335
+  
+- id: Hamala et al b 2020
+  authors: __Hämälä T__, Gorton AJ, Moeller AD & Tiffin P
+  title: Pleiotropy facilitates local adaptation to distant optima in common ragweed (_Ambrosia artemisiifolia_)
+  journal: PLOS Genetics
+  year: 2020
+  volume: 16
+  pages: e1008707
+  openaccess: false
+  pdf-url: https://doi.org/10.1371/journal.pgen.1008707
+  
+- id: Hamala et al a 2020
+  authors: __Hämälä T__, Guiltinan MG, Marden JH, Maximova S, dePamphilis C & Tiffin P
+  title: Gene expression modularity reveals footprints of polygenic adaptation in __Theobroma cacao__
+  journal: Molecular Biology and Evolution
+  year: 2020
+  volume: 1
+  pages: 110-123
+  openaccess: false
+  pdf-url: https://doi.org/10.1093/molbev/msz206
+  
+- id: Hamala & Savolainen 2019
+  authors: __Hämälä T__ & Savolainen O
+  title: Genomic patterns of local adaptation under gene flow in _Arabidopsis lyrata_
+  journal: Molecular Biology and Evolution
+  year: 2019
+  volume: 36
+  pages: 2557-2571
+  openaccess: false
+  pdf-url: https://doi.org/10.1093/molbev/msz149
+  
+- id: Mattila et al 2019
+  authors: Mattila TM, Laenen B, Horvath R, __Hämälä T__, Savolainen O & Slotte T
+  title: Impact of demography on linked selection in two outcrossing Brassicaceae species
+  journal: Ecology and Evolution
+  year: 2019
+  volume: 9
+  pages: 9532-9545
+  openaccess: false
+  pdf-url: https://doi.org/10.1002/ece3.5463
+  
+- id: Hamala et al 2018
+  authors: __Hämälä T__, Mattila TM & Savolainen O
+  title: Local adaptation and ecological differentiation under selection, migration, and drift in __Arabidopsis lyrata__
+  journal: Evolution
+  year: 2018
+  volume: 72
+  pages: 1373-1386
+  openaccess: false
+  pdf-url: https://doi.org/10.1111/evo.13521
+  
+- id: Hamala et al 2017
+  authors: __Hämälä T__, Mattila TM, Leinonen PH, Kuittinen H & Savolainen O 
+  title: Role of seed germination in adaptation and reproductive isolation in __Arabidopsis lyrata__
+  journal: Molecular Ecology
+  year: 2017
+  volume: 26
+  pages: 3484–3496
+  openaccess: false
+  pdf-url:  https://doi.org/10.1111/mec.14135
+  
 ---
