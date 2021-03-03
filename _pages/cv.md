@@ -1,7 +1,7 @@
 ---
 title: " "
 layout: single
-permalink: /cv_download/
+permalink: /cv/
 author_profile: true
 classes: wide
 date: 2021-02-13
