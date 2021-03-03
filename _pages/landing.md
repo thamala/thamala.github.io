@@ -13,4 +13,4 @@ header:
 ---
 
 __About me__ <br>
-My research focuses on adaptation in plant populations, with emphasis on genetic and genomic architecture of adaptive traits. <br> <br> Currently I am a postdoc at the University of Minnesota, studying local adaptation and strctural variant evolution in _Theobroma cacao_. <br> <br> I completed my PhD at the University of Oulu, Finland.
+My research focuses on adaptation in plant populations, with emphasis on genetic and genomic architecture of adaptive traits. Currently I am a postdoc at the University of Minnesota, studying local adaptation and strctural variant evolution in _Theobroma cacao_. I completed my PhD at the University of Oulu, Finland.
