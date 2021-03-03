@@ -9,12 +9,8 @@ header:
   overlay_filter: "0.25"
   #overlay_image:
   excerpt: <br> __Tuomas Hämälä__ <br> Postdoctoral Researcher <br> <br> Department of Plant and Microbial Biology <br> University of Minnesota
-
-intro:
-  #- image_path:
-  	title: "About Me"
-    excerpt: My research focuses on adaptation in plant populations, with emphasis on genetic and genomic architecture of adaptive traits. <br> <br> Currently I am a postdoc at the University of Minnesota, studying local adaptation and strctural variant evolution in _Theobroma cacao_. <br> <br> I completed my PhD at the University of Oulu, Finland.
-
+  
 ---
 
-{% include id="intro" type="left" %}
+__About me__ <br>
+My research focuses on adaptation in plant populations, with emphasis on genetic and genomic architecture of adaptive traits. <br> <br> Currently I am a postdoc at the University of Minnesota, studying local adaptation and strctural variant evolution in _Theobroma cacao_. <br> <br> I completed my PhD at the University of Oulu, Finland.
