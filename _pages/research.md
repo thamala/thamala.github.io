@@ -8,7 +8,7 @@ toc: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.10"
-  #overlay_image: /assets/images/Mim greenhouse.jpg
+  #overlay_image:
 last_modified_at: 2021-03-03
 ---
 
