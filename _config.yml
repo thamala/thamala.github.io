@@ -20,7 +20,7 @@ title                    : "Tuomas Hämälä"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tuomas Hämälä"
-description              : "An amazing website."
+#description              : "An amazing website."
 url                      : "https://thamala.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "thamala/thamala.github.io"
@@ -40,7 +40,7 @@ analytics:
 author:
   name             : "Tuomas Hämälä <br>"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " "
+  bio              : "Postdoctoral associate"
   location         : "University of Minnesota"
   email            : "tuomas.hamala@gmail.com"
   links:
@@ -69,9 +69,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thamala"
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: "http://orcid.org/0000-0001-8306-3397"
 
 
 # Reading Files
