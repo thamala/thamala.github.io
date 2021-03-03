@@ -1,6 +1,6 @@
 ---
 title: "Population, evolutionary and ecological genetics"
-layout: splash
+layout: single
 permalink: /
 author_profile: true
 date: 2021-03-03
