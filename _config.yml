@@ -44,7 +44,7 @@ author:
   location         : "University of Minnesota"
   email            : "tuomas.hamala@gmail.com"
   links:
-    - label: "Scholar"
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=qTVJz0AAAAAJ&hl=en&oi=ao"
     - label: "Twitter"
@@ -60,7 +60,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Scholar"
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=qTVJz0AAAAAJ&hl=en&oi=ao"
     - label: "Twitter"
