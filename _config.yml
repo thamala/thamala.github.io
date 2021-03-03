@@ -39,7 +39,7 @@ analytics:
 # Site Author
 author:
   name             : "Tuomas Hämälä <br>"
-  avatar           : "/docs/P1020687.jpg"
+  avatar           : "/assets/pics/P1020687.jpg"
   bio              : "Postdoctoral researcher"
   location         : "University of Minnesota"
   email            : "tuomas.hamala@gmail.com"
