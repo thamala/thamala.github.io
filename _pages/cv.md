@@ -12,8 +12,8 @@ header:
 
 ---
 
-Download my full CV from <a id="raw-url" href="https://raw.githubusercontent.com/thamala/thamala.github.io/master/docs/Hamala_CV_public.pdf">here</a>.
-***
+Download my full CV from <a id="raw-url" href="https://raw.githubusercontent.com/thamala/thamala.github.io/master/docs/Hamala_CV_public.pdf">here</a>.  
+___
   
 2018 – present&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral associate  
 &nbsp;&nbsp;&nbsp;&nbsp;University of Minnesota, USA  
