@@ -7,7 +7,7 @@ classes: wide
 header:
   overlay_color: "#C4C4C4"
   overlay_filter: "0.10"
-  #overlay_image:
+  overlay_image: /assets/pics/banner.jpg
 toc: false
 last_modified_at: 2021-03-03
 ---
