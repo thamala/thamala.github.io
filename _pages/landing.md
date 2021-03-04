@@ -21,5 +21,5 @@ My research focuses on adaptation in plant populations, with emphasis on underst
 <br>
 My ongoing research focuses on understanding how genomic structural variants (SVs) influence evolutionary processes in natural populations. SVs can play important roles in adaptation and speciation, but our understanding of their overall fitness consequences is limited, with data and analyses primarily available for humans and short-lived domesticated species. Using a large collection of long-read-based _de novo_ assemblies of _Theobroma cacao_, I study how large insertions, deletions, duplications, and inversions can both constrain and facilitate adaptation in this tropical tree species.
 <br>
-{% include figure image_path="/assets/pics/inversion.jpg" caption="Inversions accumulate deleterious nucleotide variants as a result of suppressed recombination, as seen from this simulation result." type=center %}
+{% include figure image_path="/assets/pics/inversion_2.jpg" caption="Inversions accumulate deleterious nucleotide variants as a result of suppressed recombination, as seen from this simulation result." type=center %}
 
