@@ -5,7 +5,7 @@ author_profile: true
 title: "Publications"
 classes: wide
 header:
-  overlay_color: "#969696"
+  overlay_color: "#C4C4C4"
   overlay_filter: "0.10"
   #overlay_image:
 toc: false
