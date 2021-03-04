@@ -19,8 +19,8 @@ My ongoing research focuses on understanding how genomic structural variants (SV
 ## Genetic architecture of local adaptation
 A key determinant of evolutionary responses is the genetic architecture of adaptive traits: i.e., the control of phenotypes by one or many loci, the interactions between alleles (e.g. pleiotropy, epistasis), and positions of loci in relation to genomic features (e.g. recombination rate, gene density).
 <br>
+<br>
 During my PhD I studied how gene flow influences the genetic architecture of local adaptation, using closely adjacent population pairs of _Arabidopsis lyrata_ from Norway as my study subject. By reciprocally transpanting local and foreign genotypes, I first examined how local adaptation forms in the face of gene flow ([Hämälä et al. 2018](https://doi.org/10.1111/evo.13521)). I then utilized whole-genome sequence data, demography analyses, and genome scans for selection to elucidate genomic patterns underlying the adaptive differentiation ([Hämälä & Savolainen](https://doi.org/10.1093/molbev/msz149)). Our study is among the first to empirically show that gene flow leads to clusters of adaptive loci in regions of low recombination. We also made a rare effort to distinguish between genetic trade-offs (antagonistic pleiotropy) and conditional neutrality at the level of adaptive loci.
 <br>
-{% include figure image_path="/assets/pics/lyrata_1.png" caption="A combination of reciprocal transplant experiments, demography simulations, and genome scans for selection revealed that gene flow leads to clusters of adaptive loci in regions of low recombination." type=center %}
-<br>
+{% include figure image_path="/assets/pics/lyrata.png" caption="A combination of reciprocal transplant experiments, demography simulations, and genome scans for selection revealed that gene flow leads to clusters of adaptive loci in regions of low recombination." type=center %}
 During my current postdoc appointment I have continued to study the genetic architecture of local adaptation. 
