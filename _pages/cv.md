@@ -21,8 +21,7 @@ Download my full CV from <a id="raw-url" href="https://raw.githubusercontent.com
 	
 2014 – 2018&nbsp;&nbsp;&nbsp;&nbsp;PhD in evolutionary and population genetics  
 &nbsp;&nbsp;&nbsp;&nbsp;University of Oulu, Finland  
-&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Ecological genomics in *Arabidopsis lyrata*: local adaptation, phenotypic differentiation  
-&nbsp;&nbsp;&nbsp;&nbsp;and reproductive isolation  
+&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Ecological genomics in *Arabidopsis lyrata*: local adaptation, phenotypic differentiation and reproductive isolation  
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen)  
 
 2008 – 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in genetics  
