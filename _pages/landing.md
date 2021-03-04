@@ -24,4 +24,4 @@ During my current postdoc appointment, I have continued to study the genetic arc
 ## Structural variant evolution in plants
 My ongoing research focuses on understanding how genomic structural variants (SVs) influence evolutionary processes in natural populations. SVs can play important roles in adaptation and speciation, but our understanding of their overall fitness consequences is limited, with data and analyses primarily available for humans and short-lived domesticated species. Using a large collection of long-read based _de novo_ assemblies of _Theobroma cacao_, I study how insertions, deletions, duplications, and inversions can both constrain and facilitate adaptation in this tropical tree species.
 <br>
-{% include figure image_path="/assets/pics/inversions.png" caption="Inversions accumulate derived, deleterious nucleotide variants as a result of suppressed recombination, thus constraining adaptation." type=center %}
+{% include figure image_path="/assets/pics/inversion.png" caption="Inversions accumulate derived, deleterious nucleotide variants as a result of suppressed recombination, thus constraining adaptation." type=center %}
