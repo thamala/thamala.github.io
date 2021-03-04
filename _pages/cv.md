@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 date: 2021-03-03
 header:
-  overlay_color: "#000"
+  overlay_color: "#C4C4C4"
   overlay_filter: "0.1"
   #overlay_image: /assets/images/20160725_160003.jpg
 
