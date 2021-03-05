@@ -11,6 +11,6 @@ header:
 toc: false
 last_modified_at: 2021-03-03
 ---
-You can find the most up to date list on my [Google Scholar page](https://scholar.google.com/citations?user=qTVJz0AAAAAJ&hl=en&oi=ao).
+You can find the most up-to-date list on my [Google Scholar page](https://scholar.google.com/citations?user=qTVJz0AAAAAJ&hl=en&oi=ao).
 
 {% include journal-articles.html %}
