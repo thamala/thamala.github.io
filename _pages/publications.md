@@ -11,5 +11,4 @@ header:
 You can find the most up-to-date list on my [Google Scholar page](https://scholar.google.com/citations?user=qTVJz0AAAAAJ&hl=en&oi=ao).
 
 {% include journal-articles.html %}
-<br>
 Updated: March 4, 2021
