@@ -27,4 +27,4 @@ You can download my full CV from <a id="raw-url" href="https://raw.githubusercon
 2008 – 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in genetics  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oulu, Finland  
   
-Updated: March 4, 2021  
+__Updated__: March 4, 2021  
