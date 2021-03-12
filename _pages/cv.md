@@ -1,8 +1,8 @@
 ---
 title: "CV"
-layout: home
+layout: single
 permalink: /cv/
-author_profile: false
+author_profile: true
 classes: wide
 date: 2021-03-04
 header:
