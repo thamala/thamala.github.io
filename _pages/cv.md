@@ -1,8 +1,8 @@
 ---
 title: "CV"
-layout: single
+layout: splash
 permalink: /cv/
-author_profile: true
+author_profile: false
 classes: wide
 date: 2021-03-04
 header:
@@ -25,4 +25,6 @@ You can download my full CV from <a id="raw-url" href="https://raw.githubusercon
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen)  
 
 2008 – 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in genetics  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oulu, Finland
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oulu, Finland  
+  
+Updated: March 4, 2021  
