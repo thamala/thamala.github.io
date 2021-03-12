@@ -1,10 +1,10 @@
 ---
 title: "CV"
-layout: splash
+layout: single
 permalink: /cv/
-author_profile: true
+author_profile: false
 classes: wide
-date: 2021-03-03
+date: 2021-03-04
 header:
   overlay_color: "#C4C4C4"
   overlay_filter: "0.1"
