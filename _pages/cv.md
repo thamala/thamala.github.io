@@ -1,6 +1,6 @@
 ---
 title: "CV"
-layout: single
+layout: home
 permalink: /cv/
 author_profile: false
 classes: wide
