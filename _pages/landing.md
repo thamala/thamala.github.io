@@ -4,7 +4,7 @@ layout: single
 classes: wide
 permalink: /
 author_profile: true
-date: 2021-03-04
+#date: 2021-03-04
 header:
   overlay_color: "#C4C4C4"
   overlay_filter: "0.1"
