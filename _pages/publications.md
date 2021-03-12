@@ -1,15 +1,14 @@
 ---
-layout: splash
+title: "Publications"
+layout: single
 permalink: /publications/
 author_profile: true
-title: "Publications"
 classes: wide
+date: 2021-03-04
 header:
   overlay_color: "#C4C4C4"
-  overlay_filter: "0.10"
+  overlay_filter: "0.1"
   overlay_image: /assets/pics/banner.jpg
-toc: false
-last_modified_at: 2021-03-03
 ---
 You can find the most up-to-date list on my [Google Scholar page](https://scholar.google.com/citations?user=qTVJz0AAAAAJ&hl=en&oi=ao).
 
