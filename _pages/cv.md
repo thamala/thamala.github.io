@@ -12,7 +12,7 @@ header:
 
 ---
 
-You can download my full CV from <a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">here</a>.
+Click <a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">here</a> to view my full CV.
 
 2018 – present&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral associate  
 &nbsp;&nbsp;&nbsp;&nbsp;University of Minnesota Twin Cities, USA  
