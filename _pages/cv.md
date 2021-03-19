@@ -15,12 +15,12 @@ header:
 Click <a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">here</a> to view my full CV.
 
 2018 – present&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral associate  
-&nbsp;&nbsp;&nbsp;&nbsp;University of Minnesota Twin Cities, USA  
+&nbsp;&nbsp;&nbsp;&nbsp;[University of Minnesota Twin Cities](https://twin-cities.umn.edu), USA  
 &nbsp;&nbsp;&nbsp;&nbsp;Project: Evolutionary genomics in plants, with focus on *Theobroma cacao*  
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Peter Tiffin](https://cbs.umn.edu/tiffin-lab/home)  
 	
 2014 – 2018&nbsp;&nbsp;&nbsp;&nbsp;PhD in evolutionary and population genetics  
-&nbsp;&nbsp;&nbsp;&nbsp;University of Oulu, Finland  
+&nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland  
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis: Ecological genomics in *Arabidopsis lyrata*: local adaptation, phenotypic differentiation and reproductive isolation  
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen)  
 
