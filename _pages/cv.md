@@ -21,7 +21,7 @@ Click <a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" targe
 	
 2014 – 2018&nbsp;&nbsp;&nbsp;&nbsp;PhD in evolutionary and population genetics  
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland  
-&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Ecological genomics in *Arabidopsis lyrata*: local adaptation, phenotypic differentiation and reproductive isolation  
+&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Ecological genomics in *Arabidopsis lyrata*: local adaptation, phenotypic differentiation and reproductive isolation [PDF](http://jultika.oulu.fi/files/isbn9789526219073.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen)  
 
 2008 – 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in genetics  
