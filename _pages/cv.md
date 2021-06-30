@@ -27,4 +27,4 @@ header:
 2008 – 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in genetics  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oulu, Finland  
   
-__Updated__: March 4, 2021  
+__Updated__: June 30, 2021  
