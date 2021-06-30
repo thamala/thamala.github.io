@@ -1,6 +1,16 @@
 ---
 
-- id: Takou 2021
+- id: Hamala et al 2021
+  authors: __Hämälä T__, Wafula EK, Guiltinan MJ, Ralph PE, dePamphilis CW & Tiffin P
+  title: Genomic structural variants constrain and facilitate adaptation in natural populations of _Theobroma cacao_, the Chocolate Tree.
+  journal: PNAS
+  year: 2021
+  volume: in press
+  pages:
+  openaccess: false
+  pdf-url:
+
+- id: Takou et al 2021
   authors: Takou M, __Hämälä T__, Koch E, Steige KA, Dittberner H, Yant L, Genete M, Sunyaev S, Castric V, Vekemans X, Savolainen O & de Meaux J
   title: Maintenance of adaptive dynamics and no detectable load in a range-edge out-crossing plant population.
   journal: Molecular Biology and Evolution
