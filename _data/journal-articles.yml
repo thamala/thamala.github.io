@@ -9,6 +9,7 @@
   pages:
   pdf-url:
   fig-url: /assets/pics/inversion.png
+  fig-caption: test caption
 
 - id: Takou et al 2021
   authors: Takou M, __Hämälä T__, Koch E, Steige KA, Dittberner H, Yant L, Genete M, Sunyaev S, Castric V, Vekemans X, Savolainen O & de Meaux J
@@ -19,6 +20,7 @@
   pages:  1820-1836
   pdf-url: https://doi.org/10.1093/molbev/msaa322
   fig-url:
+  fig-caption:
   
 - id: Hamala & Tiffin 2020
   authors: __Hämälä T__ & Tiffin P
@@ -29,6 +31,7 @@
   pages: 831-846
   pdf-url: https://doi.org/10.1534/genetics.120.303335
   fig-url:
+  fig-caption:
   
 - id: Hamala et al b 2020
   authors: __Hämälä T__, Gorton AJ, Moeller AD & Tiffin P
@@ -39,6 +42,7 @@
   pages: e1008707
   pdf-url: https://doi.org/10.1371/journal.pgen.1008707
   fig-url:
+  fig-caption:
   
 - id: Hamala et al a 2020
   authors: __Hämälä T__, Guiltinan MG, Marden JH, Maximova S, dePamphilis C & Tiffin P
@@ -49,6 +53,7 @@
   pages: 110-123
   pdf-url: https://doi.org/10.1093/molbev/msz206
   fig-url:
+  fig-caption:
   
 - id: Hamala & Savolainen 2019
   authors: __Hämälä T__ & Savolainen O
@@ -59,6 +64,7 @@
   pages: 2557-2571
   pdf-url: https://doi.org/10.1093/molbev/msz149
   fig-url:
+  fig-caption:
   
 - id: Mattila et al 2019
   authors: Mattila TM, Laenen B, Horvath R, __Hämälä T__, Savolainen O & Slotte T
@@ -69,6 +75,7 @@
   pages: 9532-9545
   pdf-url: https://doi.org/10.1002/ece3.5463
   fig-url:
+  fig-caption:
   
 - id: Hamala et al 2018
   authors: __Hämälä T__, Mattila TM & Savolainen O
@@ -79,6 +86,7 @@
   pages: 1373-1386
   pdf-url: https://doi.org/10.1111/evo.13521
   fig-url:
+  fig-caption:
   
 - id: Hamala et al 2017
   authors: __Hämälä T__, Mattila TM, Leinonen PH, Kuittinen H & Savolainen O 
@@ -89,5 +97,6 @@
   pages: 3484–3496
   pdf-url:  https://doi.org/10.1111/mec.14135
   fig-url:
+  fig-caption:
   
 ---
