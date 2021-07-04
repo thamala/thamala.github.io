@@ -4,7 +4,7 @@
     <p>
       {{ paper.authors | markdownify | | remove: "<p>" | remove: "</p>"}} ({{ paper.year }}). {{ paper.title | markdownify | | remove: "<p>" | remove: "</p>"}} <em>{{ paper.journal }}</em> {{ paper.volume }}{% if paper.pages %}: {{ paper.pages }}{% endif %}.
       {% if paper.pdf-url %}<a href="{{ paper.pdf-url }}" target="_blank"><i class="far fa-file-pdf"></i></a>{% endif %}
-      {% if paper.fig-url %}<figure> <img src="{{ paper.fig-url }}" class="center" style="width:50%"> {%if paper.fig-caption %}<figcaption>{{ paper.fig-caption }}</figcaption>{% endif %}</figure>{% endif %}
+      {% if paper.fig-url %}<figure> <img src="{{ paper.fig-url }}" align="middle" style="width:50%"> {%if paper.fig-caption %}<figcaption>{{ paper.fig-caption }}</figcaption>{% endif %}</figure>{% endif %}
     </p>
   </li>
   {% endfor %}
