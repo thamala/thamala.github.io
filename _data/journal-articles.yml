@@ -8,8 +8,8 @@
   volume: (in press)
   pages:
   pdf-url:
-  fig-url: /assets/pics/test2.png
-  fig-caption: test caption
+  fig-url:
+  fig-caption:
 
 - id: Takou et al 2021
   authors: Takou M, __Hämälä T__, Koch E, Steige KA, Dittberner H, Yant L, Genete M, Sunyaev S, Castric V, Vekemans X, Savolainen O & de Meaux J
