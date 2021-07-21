@@ -19,7 +19,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;Project: Evolutionary genomics in plants, with focus on *Theobroma cacao*  
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Peter Tiffin](https://cbs.umn.edu/tiffin-lab/home)  
 	
-2014 – 2018&nbsp;&nbsp;&nbsp;&nbsp;PhD in evolutionary and population genetics  
+2014 – 2018&nbsp;&nbsp;&nbsp;&nbsp;PhD in population and evolutionary genetics  
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland  
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis: Ecological genomics in *Arabidopsis lyrata*: local adaptation, phenotypic differentiation and reproductive isolation (<a href="https://thamala.github.io/assets/docs/Hamala_thesis.pdf" target="_blank">PDF</a>)  
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen)  
