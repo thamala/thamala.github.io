@@ -1,5 +1,5 @@
 ---
-title: "Population, evolutionary and ecological genomics"
+title: "Population, evolutionary, and ecological genomics"
 layout: single
 classes: wide
 permalink: /
