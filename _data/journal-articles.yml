@@ -8,8 +8,8 @@
   volume: 118
   pages: e2102914118
   pdf-url: https://doi.org/10.1073/pnas.2102914118
-  fig-url:
-  fig-caption:
+  fig-url: assets/pics/test.jpg
+  fig-caption: Test text for figure
 
 - id: Takou et al 2021
   authors: Takou M, __Hämälä T__, Koch E, Steige KA, Dittberner H, Yant L, Genete M, Sunyaev S, Castric V, Vekemans X, Savolainen O & de Meaux J
