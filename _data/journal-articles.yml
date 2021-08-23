@@ -8,7 +8,7 @@
   volume: 118
   pages: e2102914118
   pdf-url: https://doi.org/10.1073/pnas.2102914118
-  fig-url: assets/pics/test.jpg
+  fig-url: https://raw.githubusercontent.com/thamala/thamala.github.io/master/assets/pics/test.jpg
   fig-caption: Test text for figure
 
 - id: Takou et al 2021
