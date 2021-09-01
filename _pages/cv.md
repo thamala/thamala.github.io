@@ -12,19 +12,25 @@ header:
 
 ---
 
-<a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">Click here to view my full CV</a>
-
-2018 – present&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral associate  
-&nbsp;&nbsp;&nbsp;&nbsp;[University of Minnesota Twin Cities](https://twin-cities.umn.edu), USA  
-&nbsp;&nbsp;&nbsp;&nbsp;Project: Evolutionary genomics in plants, with focus on *Theobroma cacao*  
-&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Peter Tiffin](https://cbs.umn.edu/tiffin-lab/home)  
-	
-2014 – 2018&nbsp;&nbsp;&nbsp;&nbsp;PhD in population and evolutionary genetics  
-&nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland  
-&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Ecological genomics in *Arabidopsis lyrata*: local adaptation, phenotypic differentiation and reproductive isolation (<a href="https://thamala.github.io/assets/docs/Hamala_thesis.pdf" target="_blank">PDF</a>)  
-&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen)  
-
-2008 – 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in genetics  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oulu, Finland  
-  
-__Updated__: June 30, 2021  
+I am an evolutionary biologist who is broadly interested in the genetic and molecular basis of adaptation. Currently I am three years post PhD, have published nine articles (including first-author papers in PNAS, MBE, and PLOS Genetics), and have been awarded highly competitive fellowships by the European Commission and the Academy of Finland.<br>
+<br>
+2021 – present&nbsp;&nbsp;&nbsp;&nbsp;Academy of Finland postdoctoral fellow<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Project: [Impact of whole-genome duplications on the genetic and genomic architecture of adaptation](https://akareport.aka.fi/ibi_apps/WFServlet?IBIF_ex=x_hakkuvaus2&CLICKED_ON=&HAKNRO1=338702&UILANG=en&TULOSTE=HTML)<br>
+<br>
+2018 – 2021&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral associate<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[University of Minnesota Twin Cities](https://twin-cities.umn.edu), USA<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Project: Evolutionary genomics in plants, with focus on *Theobroma cacao*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Peter Tiffin](https://cbs.umn.edu/tiffin-lab/home)<br>
+<br>
+2014 – 2018&nbsp;&nbsp;&nbsp;&nbsp;PhD in population and evolutionary genetics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Thesis: <a href="https://thamala.github.io/assets/docs/Hamala_thesis.pdf" target="_blank">Ecological genomics in *Arabidopsis lyrata*: local adaptation, phenotypic differentiation and reproductive isolation</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen)<br>
+<br>
+2008 – 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in genetics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oulu, Finland<br>
+<br>
+<a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">Click here to view my full CV</a><br>
+<br>
+__Updated__: September 1, 2021 
