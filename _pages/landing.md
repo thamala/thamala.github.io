@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/pics/banner.jpg
 ---
 
-I study how plant populations adapt to their local environments, with emphasis on understanding the genetic and genomic architecture of beneficial traits. Currently I am a postdoc with [Peter Tiffin](http://www.cbs.umn.edu/tiffin/) at [University of Minnesota Twin Cities](https://twin-cities.umn.edu). I completed my PhD with [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen) at [University of Oulu](https://www.oulu.fi/en).
+I study how plant populations adapt to their local environments, with emphasis on understanding the genetic and genomic architecture of beneficial traits. Currently I am an Academy of Finland postdoctoral fellow at [University of Oulu](https://www.oulu.fi/en). Next spring I am starting as a Marie Skłodowska-Curie fellow at [University of Nottingham](https://www.nottingham.ac.uk), working with [Levi Yant](https://www.yantlab.net). Earlier I did a postdoc with [Peter Tiffin](http://www.cbs.umn.edu/tiffin/) at [University of Minnesota Twin Cities](https://twin-cities.umn.edu), and a PhD with [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen) at [University of Oulu](https://www.oulu.fi/en). 
 <br>
 ## Genetic architecture of local adaptation
 A key determinant of evolutionary responses is the genetic architecture of adaptive traits: i.e., the control of phenotypes by one or many loci, the interactions between alleles (e.g. pleiotropy, epistasis), and positions of loci in relation to genomic features (e.g. recombination rate, gene density).
