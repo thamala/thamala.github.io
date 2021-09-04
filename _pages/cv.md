@@ -12,7 +12,7 @@ header:
 
 ---
 
-I am an evolutionary biologist who is broadly interested in the genetic and molecular basis of adaptation. Currently I am three years post PhD, have published nine articles (including first-author papers in PNAS, MBE, and PLOS Genetics), and have been awarded highly competitive fellowships by the European Commission and the Academy of Finland.<br>
+I am an evolutionary biologist who is broadly interested in the genetic and molecular basis of adaptation. Currently, I am three years post PhD, have published nine articles (including first-author papers in PNAS, MBE, and PLOS Genetics), and have been awarded highly competitive fellowships by the European Commission and the Academy of Finland.<br>
 <br>
 2021 – present&nbsp;&nbsp;&nbsp;&nbsp;Academy of Finland postdoctoral fellow<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland<br>
