@@ -24,4 +24,4 @@ Nottingham, UK NG7 2RD<br>
 tuomas.hamala at gmail.com<br>
 <br>
 My research is funded by
-{% include figure image_path="/assets/pics/funding.png" type=center %}
+{% include figure image_path="/assets/pics/funding2.png" type=center %}
