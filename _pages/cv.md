@@ -12,9 +12,14 @@ header:
 
 ---
 
-I am an evolutionary biologist who is broadly interested in the genetic and molecular basis of adaptation. Currently, I am three years post PhD, have published nine articles (including first-author papers in *PNAS*, *MBE*, and *PLOS Genetics*), and have been awarded highly competitive fellowships by the European Commission and the Academy of Finland.<br>
+I am an evolutionary biologist who is broadly interested in the genetic and molecular basis of adaptation. Currently, I am three years post PhD, have published ten articles (including first-author papers in PNAS, MBE, and PLOS Genetics), and have been awarded highly competitive fellowships by the European Commission and the Academy of Finland.<br>
 <br>
-2021 – present&nbsp;&nbsp;&nbsp;&nbsp;Academy of Finland postdoctoral fellow<br>
+2022 – 2024&nbsp;&nbsp;&nbsp;&nbsp;Marie Skłodowska-Curie individual fellow<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[University of Nottingham](https://www.nottingham.ac.uk), UK<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Project: [Impact of whole-genome duplications on the genetic and genomic architecture of adaptation (POLYGARCH)](https://cordis.europa.eu/project/id/101022295)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Levi Yant](https://www.yantlab.net)<br>
+<br>
+2021 – 2022&nbsp;&nbsp;&nbsp;&nbsp;Academy of Finland postdoctoral fellow<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Project: [Impact of whole-genome duplications on the genetic and genomic architecture of adaptation](https://akareport.aka.fi/ibi_apps/WFServlet?IBIF_ex=x_hakkuvaus2&CLICKED_ON=&HAKNRO1=338702&UILANG=en&TULOSTE=HTML)<br>
 <br>
@@ -33,4 +38,4 @@ I am an evolutionary biologist who is broadly interested in the genetic and mole
 <br>
 <a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">Click here to view my full CV</a><br>
 <br>
-__Updated__: September 1, 2021 
+__Updated__: April 4, 2022
