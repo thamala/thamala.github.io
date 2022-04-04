@@ -20,8 +20,7 @@ Tuomas Hämälä<br>
 School of Life Sciences<br>
 University of Nottingham<br>
 University Park<br>
-Nottingham NG7 2RD<br>
-UK<br>
+Nottingham NG7 2RD, UK<br>
 tuomas.hamala at gmail.com<br>
 <br>
 My research is funded by:
