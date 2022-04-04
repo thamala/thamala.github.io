@@ -1,5 +1,16 @@
 ---
 
+- id: Hamala et al 2022
+  authors: __Hämälä T__, Ning W, Kuittinen H, Aryamanesh N & Savolainen O
+  title: Environmental response in gene expression and DNA methylation reveals factors influencing the adaptive potential of _Arabidopsis lyrata_.
+  journal: bioRxiv
+  year: 2022
+  volume:
+  pages:
+  pdf-url: https://thamala.github.io/assets/pdf/Hamala_2022_bioRxiv.pdf
+  fig-url:
+  fig-caption:
+  
 - id: Hamala et al 2021
   authors: __Hämälä T__, Wafula EK, Guiltinan MJ, Ralph PE, dePamphilis CW & Tiffin P
   title: Genomic structural variants constrain and facilitate adaptation in natural populations of _Theobroma cacao_, the chocolate tree.
