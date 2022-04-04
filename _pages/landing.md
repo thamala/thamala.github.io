@@ -13,7 +13,7 @@ header:
 
 I study how plant populations adapt to their local environments, with emphasis on understanding the genetic and genomic architecture of beneficial traits. I am currently a Marie Skłodowska-Curie fellow at [University of Nottingham](https://www.nottingham.ac.uk), working with [Levi Yant](https://www.yantlab.net). Earlier, I did a postdoc with [Peter Tiffin](http://www.cbs.umn.edu/tiffin/) at [University of Minnesota Twin Cities](https://twin-cities.umn.edu) and a PhD with [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen) at [University of Oulu](https://www.oulu.fi/en).
 <br>
-I study how plant populations adapt to their local environments, with emphasis on understanding the genetic and genomic architecture of beneficial traits. I am currently a Marie Skłodowska-Curie fellow at [University of Nottingham](https://www.nottingham.ac.uk), working with [Levi Yant](https://www.yantlab.net). Earlier, I did a postdoc with [Peter Tiffin](http://www.cbs.umn.edu/tiffin/) at [University of Minnesota Twin Cities](https://twin-cities.umn.edu) and a PhD with [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen) at [University of Oulu](https://www.oulu.fi/en).
 <br>
 My research is funded by
+<br>
 {% include figure image_path="/assets/pics/funding.png" type=center %}
