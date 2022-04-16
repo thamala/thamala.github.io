@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/pics/banner.jpg
 ---
 
-I study how plant populations adapt to their local environments, with emphasis on understanding the genetic and genomic architecture of beneficial traits. I am currently a Marie Skłodowska-Curie fellow at [University of Nottingham](https://www.nottingham.ac.uk), UK. Earlier, I did a postdoc at [University of Minnesota Twin Cities](https://twin-cities.umn.edu), USA, and a PhD at [University of Oulu](https://www.oulu.fi/en), Finland.
+I study how plant populations adapt to their local environments, with emphasis on understanding the genetic and genomic architecture of beneficial traits. I am currently a Marie Skłodowska-Curie fellow at [University of Nottingham](https://www.nottingham.ac.uk). Earlier, I did a postdoc at [University of Minnesota Twin Cities](https://twin-cities.umn.edu) and a PhD at [University of Oulu](https://www.oulu.fi/en).
 <br>
 <br>
 __Contact__
