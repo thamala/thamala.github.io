@@ -21,7 +21,7 @@ I am an evolutionary biologist who is broadly interested in the genetic and mole
 <br>
 2021 – 2022&nbsp;&nbsp;&nbsp;&nbsp;Academy of Finland postdoctoral fellow<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Project: [Impact of whole-genome duplications on the genetic and genomic architecture of adaptation](https://akareport.aka.fi/ibi_apps/WFServlet?IBIF_ex=x_hakkuvaus2&CLICKED_ON=&HAKNRO1=338702&UILANG=en&TULOSTE=HTML)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Project: <a href="https://thamala.github.io/assets/docs/aka.pdf" target="_blank">Impact of whole-genome duplications on the genetic and genomic architecture of adaptation</a><br>
 <br>
 2018 – 2021&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral associate<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Minnesota Twin Cities](https://twin-cities.umn.edu), USA<br>
