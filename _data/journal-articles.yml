@@ -1,5 +1,16 @@
 ---
 
+- id: Epstein et al 2022
+  authors: Epstein B, Burghardt LT, Heath KD, Grillo MA, Kostanecki A, __Hämälä T__, Young NE & Tiffin P
+  title: Combining GWAS and population genomic analyses to characterize coevolution in a legume-rhizobia symbiosis
+  journal: Molecular Ecology
+  year: 2022
+  volume: in press
+  pages:
+  pdf-url: https://doi.org/10.1111/mec.16602
+  fig-url:
+  fig-caption:
+
 - id: Hamala et al 2022
   authors: __Hämälä T__, Ning W, Kuittinen H, Aryamanesh N & Savolainen O
   title: Environmental response in gene expression and DNA methylation reveals factors influencing the adaptive potential of _Arabidopsis lyrata_.
