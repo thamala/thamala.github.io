@@ -11,4 +11,4 @@ header:
 See my [Google Scholar page](https://scholar.google.com/citations?user=qTVJz0AAAAAJ&hl=en&oi=ao) for more information about the publications.
 
 {% include journal-articles.html %}
-__Updated__: April 4, 2022
+__Updated__: July 18, 2022
