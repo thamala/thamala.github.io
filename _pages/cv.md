@@ -38,4 +38,4 @@ I am an evolutionary biologist who is broadly interested in the genetic and mole
 <br>
 <a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">Click here to view my full CV</a><br>
 <br>
-__Updated__: 4 April, 2022
+__Updated__: 16 August, 2022
