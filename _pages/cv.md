@@ -12,7 +12,7 @@ header:
 
 ---
 
-I am an evolutionary biologist who is broadly interested in the genetic and molecular basis of adaptation. Currently, I am four years post PhD, have published 11 articles (including first-author papers in *PNAS*, *MBE*, and *PLOS Genetics*), and have been awarded highly competitive fellowships by the European Commission and the Academy of Finland.<br>
+I am an evolutionary biologist who is broadly interested in the genetic and molecular basis of adaptation. Currently, I am four years post PhD, have published 11 articles (including first-author papers in *PNAS*, *eLife", and *MBE*), and have been awarded highly competitive fellowships by the European Commission and the Academy of Finland.<br>
 <br>
 2022 – 2024&nbsp;&nbsp;&nbsp;&nbsp;Marie Skłodowska-Curie individual fellow<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Nottingham](https://www.nottingham.ac.uk), UK<br>
@@ -38,4 +38,4 @@ I am an evolutionary biologist who is broadly interested in the genetic and mole
 <br>
 <a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">Click here to view my full CV</a><br>
 <br>
-__Updated__: 16 August, 2022
+__Updated__: 15 October, 2022
