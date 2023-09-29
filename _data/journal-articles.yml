@@ -1,5 +1,16 @@
 ---
 
+- id: Hamala et al 2023
+  authors: __Hämälä T__, Moore C, Cowan L, Carlile M, Gopaulchan D, Brandrud MK, Birkeland S, Loose M, Kolář F, Koch MA & Yant L
+  title: Impact of whole-genome duplications on structural variant evolution in the plant genus _Cochlearia_.
+  journal: bioRxiv
+  year: 2023
+  volume: preprint
+  pages: 2023/560073
+  pdf-url: https://thamala.github.io/assets/pdf/Hamala_2023.pdf
+  fig-url:
+  fig-caption:
+
 - id: Bray et al 2023
   authors: Bray SM, __Hämälä T__, Zhou M, Busoms S, Fischer S, Desjardins SD, Mandáková T, Moore C, Mathers TC, Cowan L, Monnahan P, Koch J, Wolf EM, Lysak MA, Kolář F, Higgins JD, Koch MA & Yant L
   title: Kinetochore and ionomic adaptation to whole genome duplication.
