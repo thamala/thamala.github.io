@@ -1,5 +1,16 @@
 ---
 
+- id: Bray et al 2023
+  authors: Bray SM, __Hämälä T__, Zhou M, Busoms S, Fischer S, Desjardins SD, Mandáková T, Moore C, Mathers TC, Cowan L, Monnahan P, Koch J, Wolf EM, Lysak MA, Kolář F, Higgins JD, Koch MA & Yant L
+  title: Kinetochore and ionomic adaptation to whole genome duplication.
+  journal: bioRxiv
+  year: 2023
+  volume:
+  pages:
+  pdf-url: https://thamala.github.io/assets/pdf/Bray_2023.pdf
+  fig-url:
+  fig-caption:
+  
 - id: Epstein et al 2023
   authors: Epstein B, Burghardt LT, Heath KD, Grillo MA, Kostanecki A, __Hämälä T__, Young NE & Tiffin P
   title: Combining GWAS and population genomic analyses to characterize coevolution in a legume-rhizobia symbiosis.
