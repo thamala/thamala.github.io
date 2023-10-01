@@ -12,7 +12,7 @@ header:
 
 ---
 
-I am an evolutionary biologist broadly interested in the genetic and molecular basis of adaptation. Currently, I am five years post PhD, have published 11 articles (including first-author papers in *PNAS*, *eLife*, and *MBE*), and have been awarded highly competitive fellowships by the European Commission and the Academy of Finland.<br>
+I am an evolutionary biologist broadly interested in the genetic and molecular basis of adaptation. Currently, I am five years post PhD, have published 13 articles (including first-author papers in *PNAS*, *eLife*, and *MBE*), and have been awarded highly competitive fellowships by the European Commission and the Academy of Finland.<br>
 <br>
 2022 – 2024&nbsp;&nbsp;&nbsp;&nbsp;Marie Skłodowska-Curie individual fellow<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Nottingham](https://www.nottingham.ac.uk), UK<br>
