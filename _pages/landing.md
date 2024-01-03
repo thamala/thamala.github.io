@@ -11,17 +11,14 @@ header:
   overlay_image: /assets/pics/banner.jpg
 ---
 
-I study how plant populations adapt to their local environments, with emphasis on understanding the genetic and genomic architecture of beneficial traits. I am currently a Marie Skłodowska-Curie fellow at [University of Nottingham](https://www.nottingham.ac.uk), UK.
+I am an evolutionary biologist studying plant genomics and crop breeding at the Natural Resources Institute Finland ([Luke](https://www.luke.fi/en)).
 <br>
 <br>
 __Contact__
 <br>
 Tuomas Hämälä<br>
-School of Life Sciences<br>
-University of Nottingham<br>
-University Park<br>
-Nottingham NG7 2RD, UK<br>
-tuomas.hamala at gmail.com<br>
-<br>
-My research is funded by:
-{% include figure image_path="/assets/pics/funding2.png" type=center %}
+Natural Resources Institute Finland<br>
+Tietotie 4<br>
+FI-31600, Jokioinen<br>
+Finland<br>
+tuomas.hamala@luke.fi<br>
