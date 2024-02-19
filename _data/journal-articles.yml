@@ -1,5 +1,16 @@
 ---
 
+- id: Winters et al 2024
+  authors: Winters NP, Wafula EK, Knollenberg BJ, __Hämälä T__, Timilsena PR, Perryman M, Ralph PE, Prewitt S, Leandro-Muñoz LE, Delgadillo-Duran DA, Altman NS, Tiffin P, Maximova SN, dePamphilis CW, Marden JH & Guiltinan MJ
+  title: A combination of conserved and diverged responses underlies _Theobroma cacao_’s defense response to _Phytophthora palmivora_.
+  journal: BMC Biology
+  year: 2024
+  volume: 22 
+  pages: 1-24
+  pdf-url: https://thamala.github.io/assets/pdf/Winters_2024.pdf
+  fig-url:
+  fig-caption:
+  
 - id: Hamala et al 2023
   authors: __Hämälä T__, Moore C, Cowan L, Carlile M, Gopaulchan D, Brandrud MK, Birkeland S, Loose M, Kolář F, Koch MA & Yant L
   title: Impact of whole-genome duplications on structural variant evolution in the plant genus _Cochlearia_.
