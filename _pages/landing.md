@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/pics/banner.jpg
 ---
 
-I am an evolutionary biologist studying plant genomics and crop breeding at the Natural Resources Institute Finland ([Luke](https://www.luke.fi/en)).
+I am an evolutionary biologist studying plant genomics and crop improvement at the Natural Resources Institute Finland ([Luke](https://www.luke.fi/en)).
 <br>
 <br>
 __Contact__
