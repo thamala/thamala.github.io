@@ -15,7 +15,7 @@ header:
 2024 – present&nbsp;&nbsp;&nbsp;&nbsp;Senior scientist<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Natural Resources Institute Finland](https://www.luke.fi/en), Finland<br>
 <br>
-2022 – 2024&nbsp;&nbsp;&nbsp;&nbsp;Marie Skłodowska-Curie individual fellow<br>
+2022 – 2023&nbsp;&nbsp;&nbsp;&nbsp;Marie Skłodowska-Curie individual fellow<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Nottingham](https://www.nottingham.ac.uk), UK<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Project: [Impact of whole-genome duplications on the genetic and genomic architecture of adaptation (POLYGARCH)](https://cordis.europa.eu/project/id/101022295)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Levi Yant](https://www.yantlab.net)<br>
