@@ -39,4 +39,4 @@ header:
 <br>
 <a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">Click here to view my full CV</a><br>
 <br>
-__Updated__: January 3, 2024
+__Updated__: June 25, 2024
