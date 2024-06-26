@@ -13,7 +13,7 @@ header:
 ---
 
 2024 – present&nbsp;&nbsp;&nbsp;&nbsp;Senior scientist<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Natural Resources Institute Finland](https://www.luke.fi/en), Finland<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Natural Resources Institute Finland (Luke)](https://www.luke.fi/en), Finland<br>
 <br>
 2022 – 2023&nbsp;&nbsp;&nbsp;&nbsp;Marie Skłodowska-Curie individual fellow<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Nottingham](https://www.nottingham.ac.uk), UK<br>
