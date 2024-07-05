@@ -26,7 +26,7 @@ header:
 <br>
 2018 – 2021&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral associate<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[University of Minnesota Twin Cities](https://twin-cities.umn.edu), USA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Project: Evolutionary genomics in plants, with focus on *Theobroma cacao*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Project: Evolutionary genomics in plants, with a focus on *Theobroma cacao*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Peter Tiffin](https://cbs.umn.edu/tiffin-lab/home)<br>
 <br>
 2014 – 2018&nbsp;&nbsp;&nbsp;&nbsp;PhD in population and evolutionary genetics<br>
