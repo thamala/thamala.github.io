@@ -1,5 +1,16 @@
 ---
 
+- id: Bray et al 2024
+  authors: Bray SM, __Hämälä T__, Zhou M, Busoms S, Fischer S, Desjardins SD, Mandáková T, Moore C, Mathers TC, Cowan L, Monnahan P, Koch J, Wolf EM, Lysak MA, Kolář F, Higgins JD, Koch MA & Yant L
+  title: Kinetochore and ionomic adaptation to whole- genome duplication in _Cochlearia_ shows evolutionary convergence in three autopolyploids
+  journal: Cell Reports
+  year: 2024
+  volume: 43
+  pages: 114576
+  pdf-url: https://thamala.github.io/assets/pdf/Bray_2024_CellReports.pdf
+  fig-url:
+  fig-caption:
+  
 - id: Hamala et al 2024
   authors: __Hämälä T__, Moore C, Cowan L, Carlile M, Gopaulchan D, Brandrud MK, Birkeland S, Loose M, Kolář F, Koch MA & Yant L
   title: Impact of whole-genome duplications on structural variant evolution in _Cochlearia_.
@@ -19,17 +30,6 @@
   volume: 22 
   pages: 1-24
   pdf-url: https://thamala.github.io/assets/pdf/Winters_2024_BMCBiol.pdf
-  fig-url:
-  fig-caption:
-
-- id: Bray et al 2023
-  authors: Bray SM, __Hämälä T__, Zhou M, Busoms S, Fischer S, Desjardins SD, Mandáková T, Moore C, Mathers TC, Cowan L, Monnahan P, Koch J, Wolf EM, Lysak MA, Kolář F, Higgins JD, Koch MA & Yant L
-  title: Kinetochore and ionomic adaptation to whole genome duplication.
-  journal: bioRxiv
-  year: 2023
-  volume: preprint
-  pages: 2023/559727
-  pdf-url: https://thamala.github.io/assets/pdf/Bray_2023_bioRxiv.pdf
   fig-url:
   fig-caption:
   
