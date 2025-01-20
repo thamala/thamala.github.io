@@ -35,7 +35,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Outi Savolainen](https://www.oulu.fi/university/researcher/outi-savolainen)<br>
 <br>
 2008 – 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in genetics<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oulu, Finland<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[University of Oulu](https://www.oulu.fi/en), Finland<br>
 <br>
 <a href="https://thamala.github.io/assets/docs/Hamala_CV_public.pdf" target="_blank">Click here to view my full CV</a><br>
 <br>
