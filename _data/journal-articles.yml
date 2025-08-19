@@ -2,12 +2,12 @@
 
 - id: Vlacek et al 2025
   authors: Vlček J, __Hämälä T__, Vives Cobo C, Curran E, Šrámková G, Slotte T, Schmickl R, Yant L & Kolář F
-  title: Whole-genome duplication increases genetic diversity and load in outcrossing _Arabidopsis_.
-  journal: bioRxiv
+  title: Whole-genome duplication increases genetic diversity and load in outcrossing _Arabidopsis arenosa_.
+  journal: PNAS
   year: 2025
-  volume: 2025.01.12.632621
-  pages: 
-  pdf-url: https://thamala.github.io/assets/pdf/Vlacek_2025_bioRxiv.pdf
+  volume: 122
+  pages:  e2501739122
+  pdf-url: https://thamala.github.io/assets/pdf/Vlacek_2025_PNAS.pdf
   fig-url:
   fig-caption:
   
