@@ -1,5 +1,15 @@
 ---
-
+- id: Hamala & Viitala 2026
+  authors: __Hämälä T__ & Viitala S
+  title: Pangenome and transcriptome analyses reveal extensive diversity and breeding signatures in the oat GDSL-esterase/lipase gene family
+  journal: bioRxiv
+  year: 2026
+  volume: 2026.09.28.755230
+  pages:
+  pdf-url: https://thamala.github.io/assets/pdf/Hamala_2026_bioRxiv.pdf
+  fig-url:
+  fig-caption:
+  
 - id: Vlacek et al 2025
   authors: Vlček J, __Hämälä T__, Vives Cobo C, Curran E, Šrámková G, Slotte T, Schmickl R, Yant L & Kolář F
   title: Whole-genome duplication increases genetic diversity and load in outcrossing _Arabidopsis arenosa_.
